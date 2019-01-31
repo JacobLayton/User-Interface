@@ -19,3 +19,5 @@ Given this [design file](design-files/desktop.jpg), use CSS to style the web pag
 * Fork / Clone this project into a directory on your machine.
 * Pull up the code into your preffered text editor.
 * Start coding!
+
+Initial PR
